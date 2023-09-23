@@ -1,3 +1,7 @@
 .green {
-    color: green;
+    color: green; 
+}
+
+a:hover{
+    color: salmon;
 }
